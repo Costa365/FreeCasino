@@ -1,0 +1,272 @@
+[
+  {
+    "slug": "caribbean-poker",
+    "name": "Caribbean Poker",
+    "description": "Caribbean Poker",
+    "link": "https://democasino.betsoftgaming.com/cwguestlogin.do?bankId=675&CDN=AUTO&gameId=12",
+    "provider": "Betsoft",
+    "image": "images/caribbean-poker.jpg",
+    "category": "Table Games"
+  },
+  {
+    "slug": "draw-high-low",
+    "name": "Draw High Low",
+    "description": "Draw High Low",
+    "link": "https://democasino.betsoftgaming.com/cwguestlogin.do?bankId=675&CDN=AUTO&gameId=74",
+    "provider": "Betsoft",
+    "image": "images/draw-high-low.jpg",
+    "Category": "Table Games"
+  },
+  {
+    "slug": "european-blackjack",
+    "name": "European Blackjack",
+    "description": "European Blackjack",
+    "link": "https://democasino.betsoftgaming.com/cwguestlogin.do?bankId=675&CDN=AUTO&gameId=191",
+    "provider": "Betsoft",
+    "image": "images/euro-blackjack.jpg",
+    "category": "Table Games"
+  },
+  {
+    "slug": "european-roulette",
+    "name": "European Roulette",
+    "description": "European Roulette",
+    "link": "https://democasino.betsoftgaming.com/cwguestlogin.do?bankId=675&CDN=AUTO&gameId=79",
+    "provider": "Betsoft",
+    "image": "images/euro-roulette.jpg",
+    "category": "Table Games"
+  },
+    {
+    "slug": "three-card-rummy",
+    "name": "Three Card Rummy",
+    "description": "Three Card Rummy",
+    "link": "https://democasino.betsoftgaming.com/cwguestlogin.do?bankId=675&CDN=AUTO&gameId=244",
+    "provider": "Betsoft",
+    "image": "images/3-card-rummy.jpg",
+    "category": "Table Games"
+  },
+  {
+    "slug": "american-blackjack",
+    "name": "American Blackjack",
+    "description": "American Blackjack",
+    "link": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=EUR&gameSymbol=bjmb",
+    "provider": "Pragmatic Play",
+    "image": "images/american-blackjack.jpg",
+    "Category": "Slots"
+  },
+  {
+    "slug": "deuces-wild",
+    "name": "Deuces Wild",
+    "description": "Deuces Wild",
+    "link": "https://democasino.betsoftgaming.com/cwguestlogin.do?bankId=675&CDN=AUTO&gameId=29",
+    "provider": "Betsoft",
+    "image": "images/deuces-wild.jpg",
+    "category": "Table Games"
+  },
+  {
+    "slug": "casino-holdem",
+    "name": "Casino Holdem",
+    "description": "Casino Holdem",
+    "link": "https://acccw.playngonetwork.com/casino/ContainerLauncher?pid=672&gid=casinoholdem&channel=desktop&lang=en_GB&practice=1",
+    "provider": "Play'n GO",
+    "image": "images/casino-holdem.jpg",
+    "category": "Table Games"
+  },
+  {
+    "slug": "casino-stud-poker",
+    "name": "Casino Stud Poker",
+    "description": "Casino Stud Poker",
+    "link": "https://acccw.playngonetwork.com/casino/ContainerLauncher?pid=672&gid=casinostudpoker&channel=desktop&lang=en_GB&practice=1",
+    "provider": "Play'n GO",
+    "image": "images/casino-stud-poker.jpg",
+    "category": "Table Games"
+  },
+  {
+    "slug": "money-wheel",
+    "name": "Money Wheel",
+    "description": "Mony Wheel",
+    "link": "https://acccw.playngonetwork.com/casino/ContainerLauncher?pid=672&gid=moneywheel&channel=desktop&lang=en_GB&practice=1",
+    "provider": "Play'n GO",
+    "image": "images/money-wheel.jpg",
+    "category": "Other Games"
+  },
+  {
+    "slug": "casino-solitaire",
+    "name": "Casino Solitaire",
+    "description": "Casino Solitaire",
+    "link": "https://bornlucky-test-lon.gamevy.com/gamevy/launch-game?gameId=CASINO_SOLITAIRE&mode=fun&currency=GBP&lang=en-GB",
+    "provider": "G Games",
+    "image": "images/casino-solitaire.jpg",
+    "category": "Other Games"
+  },
+  {
+    "slug": "retro-solitaire",
+    "name": "Retro Solitaire",
+    "description": "Retro Solitaire",
+    "link": "https://bornlucky-test-lon.gamevy.com/gamevy/launch-game?gameId=RETRO_SOLITAIRE&mode=fun&currency=GBP&lang=en-GB",
+    "provider": "G Games",
+    "image": "images/retro-solitaire.jpg",
+    "category": "Other Games"
+  },
+  {
+    "slug": "aviator",
+    "name": "Aviator",
+    "description": "Aviator",
+    "link": "https://demo.spribe.io/launch/aviator?lang=aviator&currency=USD",
+    "provider": "Spribe",
+    "image": "images/aviator.jpg",
+    "category": "Other Games"
+  },
+  {
+    "slug": "testament",
+    "name": "Testament",
+    "description": "Testament",
+    "link": "https://acccw.playngonetwork.com/casino/ContainerLauncher?pid=672&gid=testament&channel=desktop&lang=en_GB&practice=1",
+    "provider": "Play'n GO",
+    "image": "images/testament.jpg",
+    "category": "Slots"
+  },
+  {
+    "slug": "ring-of-odin",
+    "name": "Ring Of Odin",
+    "description": "Ring Of Odin",
+    "link": "https://acccw.playngonetwork.com/casino/ContainerLauncher?pid=672&gid=ringofodin&channel=desktop&lang=en_GB&practice=1",
+    "provider": "Play'n GO",
+    "image": "images/ring-of-odin.jpg",
+    "category": "Slots"
+  },
+  {
+    "slug": "rise-of-merlin",
+    "name": "Rise Of Merlin",
+    "description": "Rise Of Merlin",
+    "link": "https://acccw.playngonetwork.com/casino/ContainerLauncher?pid=672&gid=riseofmerlin&channel=desktop&lang=en_GB&practice=1",
+    "provider": "Play'n GO",
+    "image": "images/rise-of-merlin.jpg",
+    "category": "Slots"
+  },
+  {
+    "slug": "brothers-kingdom",
+    "name": "Brothers Kingdom",
+    "description": "Brothers Kingdom",
+    "link": "https://lobby.sgplayfun.com/index.jsp?&game=S-PW02&language=en_US",
+    "provider": "Spade Gaming",
+    "image": "images/brothers-kingdom.jpg",
+    "category": "Slots"
+  },
+  {
+    "slug": "zeus",
+    "name": "Zeus",
+    "description": "Zeus",
+    "link": "https://lobby.sgplayfun.com/index.jsp?&game=S-ZE01&language=en_US",
+    "provider": "Spade Gaming",
+    "image": "images/zeus.jpg",
+    "category": "Slots"
+  },
+  {
+    "slug": "sword-of-khans",
+    "name": "Sword Of Khans",
+    "description": "Sword Of Khans",
+    "link": "https://forfun.thunderkick.com/gamelauncher/play/generic?device=desktop&gameId=tk-s1-g28&operatorId=2&playMode=demo",
+    "provider": "Thunderkick",
+    "image": "images/sword-of-khans.jpg",
+    "category": "Slots"
+  },
+  {
+    "slug": "arcader",
+    "name": "Arcader",
+    "description": "Arcader",
+    "link": "https://forfun.thunderkick.com/gamelauncher/play/generic?device=desktop&gameId=tk-astronaut&operatorId=2&playMode=demo",
+    "provider": "Thunderkick",
+    "image": "images/arcader.jpg",
+    "category": "Slots"
+  },
+  {
+    "slug": "golden-horns",
+    "name": "Golden Horns",
+    "description": "Golden Horns",
+    "link": "https://democasino.betsoftgaming.com/cwguestlogin.do?bankId=675&CDN=AUTO&gameId=822",
+    "provider": "Betsoft",
+    "image": "images/golden_horns.jpg",
+    "category": "Slots"
+  },
+  {
+    "slug": "gold-party",
+    "name": "Gold Party",
+    "description": "Gold Party",
+    "link": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=EUR&gameSymbol=vs25goldparty",
+    "provider": "Pragmatic Play",
+    "image": "images/Gold-Party.jpg",
+    "Category": "Slots"
+  },
+  {
+    "slug": "magicians-secrets",
+    "name": "Magician's Secrets",
+    "description": "Magician's Secrets",
+    "link": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=EUR&gameSymbol=vs4096magician",
+    "provider": "Pragmatic Play",
+    "image": "images/Magician-s-Secrets.jpg",
+    "Category": "Slots"
+  },
+  {
+    "slug": "smugglers-cove",
+    "name": "Smugglers Cove",
+    "description": "Smugglers Cove",
+    "link": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=EUR&gameSymbol=vs20smugcove",
+    "provider": "Pragmatic Play",
+    "image": "images/Smugglers-Cove.jpg",
+    "Category": "Slots"
+  },
+  {
+    "slug": "book-of-the-fallen",
+    "name": "Book of the Fallen",
+    "description": "Book of the Fallen",
+    "link": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=EUR&gameSymbol=vs10bookfallen",
+    "provider": "Pragmatic Play",
+    "image": "images/Book-of-Fallen.jpg",
+    "Category": "Slots"
+  },
+  {
+    "slug": "bounty-gold",
+    "name": "Bounty Gold",
+    "description": "Bounty Gold",
+    "link": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=EUR&gameSymbol=vs25btygold",
+    "provider": "Pragmatic Play",
+    "image": "images/Bounty-Gold.jpg",
+    "Category": "Slots"
+  },
+  {
+    "slug": "big-juan",
+    "name": "Big Juan",
+    "description": "Big Juan",
+    "link": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=EUR&gameSymbol=vs40bigjuan",
+    "provider": "Pragmatic Play",
+    "image": "images/Big-Juan.jpg",
+    "Category": "Slots"
+  },
+  {
+    "slug": "john-hunter-and-the-quest-for-bermuda-riches",
+    "name": "John Hunter and the Quest for Bermuda Riches",
+    "description": "John Hunter and the Quest for Bermuda Riches",
+    "link": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=EUR&gameSymbol=vs20bermuda",
+    "provider": "Praghttps://www.w3schools.com/css/css3_transitions.aspyoumatic Play",
+    "image": "images/John-Hunter-and-the-Quest-for-Bermuda-Riches.jpg",
+    "Category": "Slots"
+  },
+  {
+    "slug": "star-pirates-code",
+    "name": "Star Pirates Code",
+    "description": "Star Pirates Code",
+    "link": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=EUR&gameSymbol=vs10starpirate",
+    "provider": "Pragmatic Play",
+    "image": "images/Star-Pirates-Code.jpg",
+    "Category": "Slots"
+  },
+  {
+    "slug": "day-of-dead",
+    "name": "Day of Dead",
+    "description": "Day of Dead",
+    "link": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=EUR&gameSymbol=vs20daydead",
+    "provider": "Pragmatic Play",
+    "image": "images/Day-of-Dead.jpg",
+    "Category": "Slots"
+  }
+]
