@@ -2,7 +2,7 @@
 
 Casino site with free to play slots and table games. Created to practice flexbox, responsive CSS and to play free games on desktop and mobile. It was written in PHP so that it can easly be hosted on free providers such as [InfinityFree](https://infinityfree.net/).
 
-The site can be accessed at: [free-casino.gq](https://free-casino.gq/)
+The site can be accessed at: [freecasino.costa365.site](https://freecasino.costa365.site)
 
 ## Development
 
