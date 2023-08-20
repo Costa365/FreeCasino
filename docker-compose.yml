@@ -4,6 +4,15 @@ services:
     restart: always
     build: .
     ports:
-     - "80:80"
+     - "5006:5006"
     volumes:
      - ./src:/var/www/html
+    environment:
+      VIRTUAL_HOST: freecasino.costa365.site
+      PORT: 5006
+    networks:
+      - nginx-proxy
+
+networks:
+  nginx-proxy:
+    external: true
