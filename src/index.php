@@ -21,7 +21,8 @@
   <meta name="twitter:title" content="Free Casino">
   <meta name="twitter:description" content="Play slots, table games and solitaire games for free">
   <meta name="twitter:image" content="https://freecasino.costa365.site/images/oglogo.jpg">
- </head>
+  <meta name="google-site-verification" content="mWSW8siX5fw2O4oj01NRNxVpOQeYfYiE7cQ0ylDQ0a4"> 
+</head>
  <body>
  <div class="main-container">
  <div>
