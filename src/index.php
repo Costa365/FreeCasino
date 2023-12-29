@@ -7,14 +7,20 @@
   <link href="css/styles.css" rel="stylesheet" type="text/css">
   <link rel="shortcut icon" href="favicon.ico">
   <meta name="description" content="Play slots, table games and solitaire games for free">
-  <link rel="canonical" href="http://free-casino.gq/" />
+  <link rel="canonical" href="https://freecasino.costa365.site" />
   <meta name="robots" content="index, nofollow">
   <meta property="og:type" content="website" />
-  <meta property="og:title" content="Extreme Weather Today" />
-  <meta property="og:description" content="Extreme weather conditions over the past 24 hours for all continents" />
-  <meta property="og:image" content="http://free-casino.gq/images/banner.jpg" />
-  <meta property="og:url" content="http://free-casino.gq/" />
+  <meta property="og:title" content="Free Casino" />
+  <meta property="og:description" content="Play slots, table games and solitaire games for free" />
+  <meta property="og:image" content="https://freecasino.costa365.site/images/oglogo.jpg" />
+  <meta property="og:url" content="https://freecasino.costa365.site" />
   <meta property="og:site_name" content="Free Casino" />
+  <meta name="twitter:card" content="summary_large_image">
+  <meta property="twitter:domain" content="freecasino.costa365.site">
+  <meta property="twitter:url" content="https://freecasino.costa365.site/">
+  <meta name="twitter:title" content="Free Casino">
+  <meta name="twitter:description" content="Play slots, table games and solitaire games for free">
+  <meta name="twitter:image" content="https://freecasino.costa365.site/images/oglogo.jpg">
  </head>
  <body>
  <div class="main-container">
