@@ -1,4 +1,4 @@
-FROM php:8.0-apache
+FROM php:8.5.12-apache
 WORKDIR /var/www/html
 ENV PORT 5006
 COPY src /var/www/html
