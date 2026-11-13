@@ -9,15 +9,6 @@
     "category": "Table Games"
   },
   {
-    "slug": "draw-high-low",
-    "name": "Draw High Low",
-    "description": "Draw High Low",
-    "link": "https://democasino.betsoftgaming.com/cwguestlogin.do?bankId=675&CDN=AUTO&gameId=74",
-    "provider": "Betsoft",
-    "image": "images/draw-high-low.jpg",
-    "Category": "Table Games"
-  },
-  {
     "slug": "european-blackjack",
     "name": "European Blackjack",
     "description": "European Blackjack",
@@ -43,6 +34,15 @@
     "provider": "Betsoft",
     "image": "images/3-card-rummy.jpg",
     "category": "Table Games"
+  },
+  {
+    "slug": "red-dog",
+    "name": "Red Dog",
+    "description": "Red Dog",
+    "link": "https://democasino.betsoftgaming.com/cwguestlogin.do?bankId=675&CDN=AUTO&gameId=94",
+    "provider": "Betsoft",
+    "image": "images/red-dog.jpg",
+    "Category": "Table Games"
   },
   {
     "slug": "american-blackjack",
